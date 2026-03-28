@@ -7,7 +7,9 @@ const crypto = require('crypto');
 function findBaileysPath() {
     const packages = [
         '@whiskeysockets/baileys',
-        '@waguri/baileys'
+        '@riyanofficial/baileys-pro',
+        '@riyanofficial/baileys', 
+        '@riyanofficial'
     ];
 
     const possiblePaths = [
